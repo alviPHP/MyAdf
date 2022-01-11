@@ -1,0 +1,9 @@
+{
+	"name": "AlviADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5fca42a1-5367-41bb-8c7f-6e90b477cd9b",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
